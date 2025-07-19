@@ -21,7 +21,7 @@ This repository contains the in silico workflow and result files for designing a
 ### 2. **Filtering and Validation**
 - **Allergenicity**: 'Allergenicity Prediction/' – Tools used: AllergenFP, AllerTOP.
 - **Toxicity**: 'Toxicity Prediction/' – Tool: ToxinPred.
-- 
+  
 ### 3. **Epitope Clustering**
 - 'Epitope Clustering Results/': Clustering overlapping epitopes to select conserved regions.
 
@@ -32,7 +32,7 @@ This repository contains the in silico workflow and result files for designing a
 - 'vaccine/': Multi-epitope construct, with linkers and adjuvant added.
 
 ### 6. **Structural Modeling**
-- 'fold_west_nile_virus_vaccine/': Protein structural prediction.
+- 'fold_west_nile_virus_vaccine/': Protein structural prediction using AlphaFold.
 - 'ClusPro/': Molecular docking.
 
 ### 7. **Immune simulation**
