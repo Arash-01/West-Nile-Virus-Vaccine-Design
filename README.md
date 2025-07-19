@@ -4,40 +4,51 @@ This repository contains the in silico workflow and result files for designing a
 
 ---
 
-## Workflow Overview
+## 0. Select and Prepare Target Protein
 
-### 0. **Protein Retrieval**
-- envelope [E] protein, partial [West Nile virus].fasta: Main target sequence retrieved from NCBI.
-- Antigenicity: 'VaxiJen': Antigenicity score
+- Retrieve protein sequence from **NCBI**
+- Assess **antigenicity** using **VaxiJen v2.0**  
 
-### 1. **Epitope Prediction**
-- **MHC-I Binding**:
-  Predicted CD8+ T-cell epitopes.
-- **MHC-II Binding**:
-  Predicted CD4+ T-cell epitopes.
-- **B-cell Epitopes**:
-  Linear B-cell epitopes.
+## 1. Epitope Prediction
 
-### 2. **Filtering and Validation**
-- **Allergenicity**: 'Allergenicity Prediction/' – Tools used: AllergenFP, AllerTOP.
-- **Toxicity**: 'Toxicity Prediction/' – Tool: ToxinPred.
+- Predict **MHC Class I**, **MHC Class II**, and **B-cell epitopes** using **IEDB**
+- Select **high-affinity**, **immunogenic** epitopes
+
+## 2. Allergenicity and Toxicity Screening
+
+Test selected epitopes using:
+- **AllerTOP v2.0** for allergenicity
+- **ToxinPred** for toxicity
   
-### 3. **Epitope Clustering**
-- 'Epitope Clustering Results/': Clustering overlapping epitopes to select conserved regions.
+## 3. Epitope Clustering
 
-### 4. **Population Coverage**
-- 'Population Coverage Calculation Result/': Estimation using IEDB population coverage tool.
+- Perform cluster analysis with **IEDB's Epitope Cluster Analysis Tool**
 
-### 5. **Vaccine Construct Design**
-- 'vaccine/': Multi-epitope construct, with linkers and adjuvant added.
+## 4. Population Coverage Analysis
 
-### 6. **Structural Modeling**
-- 'fold_west_nile_virus_vaccine/': Protein structural prediction using AlphaFold.
-- 'ClusPro/': Molecular docking.
+- Use **IEDB Population Coverage Tool** to assess epitope relevance  
+  Based on **geographic regions**
+  
+## 5. Vaccine Construct Design
 
-### 7. **Immune simulation**
-- 'C-IMMMSIM/': Immune simulation results.
+- Link selected epitopes with **linkers** (e.g., `GPGPG`, `AAY`)
+- Add an **adjuvant** at the N-terminus (`β-defensin`)
+- Reassess **construct antigenicity** with **VaxiJen**
 
+## 6. Structural Modeling and Docking
+
+- Model 3D structure with **AlphaFold**
+- Validate/refine using **MolProbity**
+- Dock with innate immune receptor (**TLR4**) via **ClusPro**
+
+## 7. Immune Simulation
+
+- Simulate host immune response using **C-ImmSim**
+- Evaluate:
+  - **Cytokine levels**
+  - **Memory formation**
+  - **Immune profile dynamics**
+ 
 ---
 
 ## Tools & Servers Used
@@ -48,5 +59,6 @@ This repository contains the in silico workflow and result files for designing a
 - ToxinPred
 - AllerTOP
 - AlphaFold
+- MolProbity
 - ClusPro
 - C-IMMSIM
