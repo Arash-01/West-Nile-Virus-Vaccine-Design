@@ -43,7 +43,7 @@ This repository contains the in silico workflow and result files for designing a
 ## Tools & Servers Used
 
 - NCBI
-- IEDB (MHC-I, MHC-II, B-cell, population coverage)
+- IEDB
 - VaxiJen
 - ToxinPred
 - AllerTOP
