@@ -26,8 +26,7 @@ Test selected epitopes using:
 
 ## 4. Population Coverage Analysis
 
-- Use **IEDB Population Coverage Tool** to assess epitope relevance  
-  Based on **geographic regions**
+- Use **IEDB Population Coverage Tool** to assess epitope relevance based on **geographic regions**
   
 ## 5. Vaccine Construct Design
 
