@@ -30,9 +30,9 @@ This repository contains the in silico workflow and result files for designing a
 
 ### 6. **Vaccine Construct Design**
 - 'vaccine/': Multi-epitope construct, with linkers and adjuvant added.
-- 'fold_west_nile_virus_vaccine/': PDB of final construct.
 
 ### 7. **Structural Modeling**
+- 'fold_west_nile_virus_vaccine/': PDB of final construct.
 - 'ClusPro/', 'C-IMMMSIM/', 'Advanced Structural Analysis/': Protein structure prediction, molecular docking, and immune simulation results.
 
 ---
