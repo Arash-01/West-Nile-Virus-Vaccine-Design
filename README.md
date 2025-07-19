@@ -32,7 +32,7 @@ Test selected epitopes using:
 ## 5. Vaccine Construct Design
 
 - Link selected epitopes with **linkers** (e.g., `GPGPG`, `AAY`)
-- Add an **adjuvant** at the N-terminus (`β-defensin`)
+- Add an **adjuvant** at the N-terminus (`Human β-defensin-3`)
 - Reassess **construct antigenicity** with **VaxiJen**
 
 ## 6. Structural Modeling and Docking
