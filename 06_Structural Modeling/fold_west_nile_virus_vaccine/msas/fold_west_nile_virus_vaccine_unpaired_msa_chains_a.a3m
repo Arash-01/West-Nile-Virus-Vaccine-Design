@@ -1,0 +1,416 @@
+>query
+GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKKEAAAKTPVGRLVTVAAYFLAVGGVLLAAYVLLFLSVNVAAYFSITPSAPSYTLGPGPGFSITPSAPSKKSITPSAPSYTLKLGEKKVTIMSKDKPTIDVKMKKKMEKLQLKGTTYGVC
+>UniRef90_Q5U7J2/1-45 [subseq from] Beta-defensin 3 (Fragment) n=4 Tax=Catarrhini TaxID=9526 RepID=Q5U7J2_HUMAN
+GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_H0WKK3/23-67 [subseq from] Defensin, beta 103 n=1 Tax=Otolemur garnettii TaxID=30611 RepID=H0WKK3_OTOGA
+GIINTVQRYYCRIRGGRCAVLSCLPREEQIGRCSSRGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8C7ENB2/23-67 [subseq from] Defensin, beta 103 n=10 Tax=Caniformia TaxID=379584 RepID=A0A8C7ENB2_NEOVI
+GIVNTLQRYYCRIRSGRCAVLSCLPKEEQIGRCSSSGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A0K0KQM0/4-47 [subseq from] Beta-defensin 103 (Fragment) n=1 Tax=Canis lupus familiaris TaxID=9615 RepID=A0A0K0KQM0_CANLF
+-IINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8I3S2G4/76-120 [subseq from] Beta-defensin 103 n=3 Tax=Canidae TaxID=9608 RepID=A0A8I3S2G4_CANLF
+GIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2K6GWG1/23-67 [subseq from] DEFSN domain-containing protein n=2 Tax=Lemuriformes TaxID=376915 RepID=A0A2K6GWG1_PROCO
+GLINTLQRYYCRIRRGRCAVLSCLPREEQIGRCSSSGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_G1M228/23-67 [subseq from] Beta-defensin 103A n=2 Tax=Ailuropoda melanoleuca TaxID=9646 RepID=G1M228_AILME
+GIINTLQRYYCQIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A384DBG0/76-120 [subseq from] beta-defensin 103A-like n=4 Tax=Ursus TaxID=9639 RepID=A0A384DBG0_URSMA
+GIINTLQRYYCRIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI001659662A/76-120 [subseq from] beta-defensin 103A-like n=1 Tax=Halichoerus grypus TaxID=9711 RepID=UPI001659662A
+GIINTLQRYYCRIRRGRCAVLTCLPKEEQIGRCSSAGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI001395F67E/23-67 [subseq from] beta-defensin 103A-like n=1 Tax=Phoca vitulina TaxID=9720 RepID=UPI001395F67E
+GIINTLQRHYCRIRRGRCAVLTCLPKEEQIGRCSSAGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00188EC827/23-67 [subseq from] beta-defensin 103A-like n=1 Tax=Talpa occidentalis TaxID=50954 RepID=UPI00188EC827
+GIINTLQRYYCHVRGGRCAVLSCLPREELIGRCSSTGRKCCRKRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A5E4C6F6/23-67 [subseq from] Defensin, beta 103 n=5 Tax=Marmotini TaxID=337730 RepID=A0A5E4C6F6_MARMO
+GIISAVQRYYCRIRGGRCAVLGCLPKEEQIGRCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00210F9A3F/24-68 [subseq from] beta-defensin 103A-like n=1 Tax=Suncus etruscus TaxID=109475 RepID=UPI00210F9A3F
+GIVNTLQRYYCRLRGGRCALVSCLPKEEHIGRCSSAGRKCCRKRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8D2ATJ8/23-67 [subseq from] Defensin, beta 103 n=2 Tax=Sciurini TaxID=337752 RepID=A0A8D2ATJ8_SCIVU
+GLIGAAQRYYCRMRGGRCALLSCLPKEEQIGRCSLRGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8C3YMK7/23-67 [subseq from] Defensin, beta 103 n=4 Tax=Suina TaxID=35497 RepID=A0A8C3YMK7_9CETA
+GIINTLQKYYCKIRRGRCAVLGCLPREEQIGSCSLSGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8B7RXT9/24-67 [subseq from] beta-defensin 103-like n=1 Tax=Hipposideros armiger TaxID=186990 RepID=A0A8B7RXT9_HIPAR
+-VINALQRYFCRIRGGRCAVLNCLPREEHIGRCSVAGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_G5BMG6/23-67 [subseq from] Beta-defensin 1 n=1 Tax=Heterocephalus glaber TaxID=10181 RepID=G5BMG6_HETGA
+GLINTVQRYFCRVRGGRCAALTCLPRETQIGHCSVRGRKCCRRRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A671F7B0/23-67 [subseq from] Defensin, beta 103 n=2 Tax=Rhinolophus TaxID=49442 RepID=A0A671F7B0_RHIFE
+GLINTLQRYFCKIRSGRCAVLSCLPREEHIGSCSVGGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00189DD828/24-67 [subseq from] beta-defensin 103A-like n=1 Tax=Choloepus didactylus TaxID=27675 RepID=UPI00189DD828
+-IINKLQRYYCRIRSGRCAVFGCLPKEEQIGRCSVTGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2Y9RDK0/25-67 [subseq from] beta-defensin 103A-like n=1 Tax=Trichechus manatus latirostris TaxID=127582 RepID=A0A2Y9RDK0_TRIMA
+--ISALQKYYCKIRGGRCAVIGCLPKEEQIGHCSSTGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A6J3BJG4/24-67 [subseq from] beta-defensin 103A-like n=1 Tax=Vicugna pacos TaxID=30538 RepID=A0A6J3BJG4_VICPA
+-IINKLQKYYCKVRSGRCAVLGCLPKEEQIGRCSLSGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_P83943/23-67 [subseq from] Beta-defensin 1 n=1 Tax=Chinchilla lanigera TaxID=34839 RepID=DEFB1_CHILA
+GIINTIQRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCRTRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8C5JWN7/24-67 [subseq from] Beta-defensin 103-like n=1 Tax=Jaculus jaculus TaxID=51337 RepID=A0A8C5JWN7_JACJA
+-LFNSLRKFYCKVRGGRCAVLSCLPREKQIGSCSSKGRKCCQRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8B7G3M9/73-117 [subseq from] beta-defensin 103-like n=2 Tax=Microcebus murinus TaxID=30608 RepID=A0A8B7G3M9_MICMU
+GIVNSLHRFYCRLRRGRCAVLSCLPREEQIGRCSTGGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A6P3RED5/23-67 [subseq from] beta-defensin 103A-like n=1 Tax=Pteropus vampyrus TaxID=132908 RepID=A0A6P3RED5_PTEVA
+GIISSLQRSYCKIRSGRCAVLSCLPKEEQIGTCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0021E1FADF/24-67 [subseq from] beta-defensin 14-like n=1 Tax=Acomys russatus TaxID=60746 RepID=UPI0021E1FADF
+-ILKGLQKFFCRVRGGRCAVLNCLAKEEQIGQCSNKGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A091E3W4/23-67 [subseq from] Beta-defensin 1 n=2 Tax=Fukomys damarensis TaxID=885580 RepID=A0A091E3W4_FUKDA
+GLINAVQRYFCRVRGGRCAALTCLPRETQIGHCSLKGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8C9PP28/26-66 [subseq from] Defensin, beta 103 n=3 Tax=Marmotini TaxID=337730 RepID=A0A8C9PP28_SPEDA
+----ALQRYYCRIRGGRCAMLGCLPKEEQIGRCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_S9YEN8/57-100 [subseq from] Beta-defensin 103A-like n=3 Tax=Camelus TaxID=9836 RepID=S9YEN8_CAMFR
+-IINKLQKYYCKIRSGRCAVLGCLPKEEQIGRCSLSGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00168D0241/32-76 [subseq from] beta-defensin 103A n=1 Tax=Rousettus aegyptiacus TaxID=9407 RepID=UPI00168D0241
+GIIGTLQRSFCKIRSGRCAVLSCLPKEEQIGTCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0002C66530/23-67 [subseq from] beta-defensin 103A-like n=1 Tax=Ceratotherium simum simum TaxID=73337 RepID=UPI0002C66530
+GIINALQRYYCKIRNGRCAVFGCLPKEEQIGHCSRGGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2I3HNB0/33-68 [subseq from] Secreted protein n=1 Tax=Nomascus leucogenys TaxID=61853 RepID=A0A2I3HNB0_NOMLE
+GIINTLQKYYCRVRGGQCAVLSCLPKEEQIGKCSTK-------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A287ADT5/38-81 [subseq from] Sperm associated antigen 11 n=1 Tax=Sus scrofa TaxID=9823 RepID=A0A287ADT5_PIG
+-IINTLQRYYCKIRRGRCAVLGCLPKEEQIGSCSVSGRKCCRKRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_G1TTX8/23-67 [subseq from] Defensin, beta 103 n=1 Tax=Oryctolagus cuniculus TaxID=9986 RepID=G1TTX8_RABIT
+GLINAAHKYYCKLRRGRCALLSCLPKEEQIGRCSLRGRKCCRTKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A5N3XMH3/23-67 [subseq from] DEFSN domain-containing protein n=2 Tax=Cervidae TaxID=9850 RepID=A0A5N3XMH3_MUNRE
+GIISGLQKYYCKIRSGRCALIGCLPKEEQIGRCSLSGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI001B34AC60/23-67 [subseq from] beta-defensin 103A n=2 Tax=Ochotona TaxID=9977 RepID=UPI001B34AC60
+GIISAAQKYYCKLRRGRCAVLGCLPKEEQIGRCSLSGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_G3T5A3/25-67 [subseq from] Defensin, beta 103 n=1 Tax=Loxodonta africana TaxID=9785 RepID=G3T5A3_LOXAF
+--ISALQKYFCKIRSGRCAVLGCLPKEEQIGHCSLTGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00174632F3/23-73 [subseq from] beta-defensin 103 n=1 Tax=Molossus molossus TaxID=27622 RepID=UPI00174632F3
+GIISTVQKYFCTVRSGRCALVSCLPREDHIGSCSPGGRKCCRRRKGKIPK-P---------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI000328A6FA/24-67 [subseq from] beta-defensin 1-like n=1 Tax=Dasypus novemcinctus TaxID=9361 RepID=UPI000328A6FA
+-LINTIQRHFCKVRGGRCALLNCLPREEQIGHCSVKGRKCCRVRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0003338327/25-67 [subseq from] beta-defensin 103A-like n=1 Tax=Echinops telfairi TaxID=9371 RepID=UPI0003338327
+--ISAIQKYFCKIRSGRCAILGCLPKEEQIGRCSLGGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A3Q1M0J5/24-67 [subseq from] Defensin, beta 103 n=9 Tax=Bovinae TaxID=27592 RepID=A0A3Q1M0J5_BOVIN
+-IISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A6J2MRC5/23-67 [subseq from] beta-defensin 103A-like n=5 Tax=Phyllostomidae TaxID=9415 RepID=A0A6J2MRC5_9CHIR
+GIITRVQRYFCKARNGRCAALSCLPKEEQIGTCSLRGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_G1P521/23-67 [subseq from] Defensin, beta 103 n=3 Tax=Myotis TaxID=9434 RepID=G1P521_MYOLU
+GIISTVQRYFCKVRSGRCALVSCLPKEEHIGSCSLTGRKCCRRRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A286XQ27/23-67 [subseq from] Defensin, beta 103 n=1 Tax=Cavia porcellus TaxID=10141 RepID=A0A286XQ27_CAVPO
+GLISAVQRYFCRVRGGRCAALSCLPRETQIGRCSLKGRKCCRTKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q0W9P9/23-67 [subseq from] Beta-defensin 103A n=2 Tax=Equus TaxID=9789 RepID=D103A_HORSE
+GIINMLQKSYCKIRKGRCALLGCLPKEEQIGSCSVSGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1S3W3N4/23-67 [subseq from] beta-defensin 103-like n=1 Tax=Erinaceus europaeus TaxID=9365 RepID=A0A1S3W3N4_ERIEU
+GVIDTLKRYYCKARGGRCALVSCLPREELIGSCSMKGRKCCRRRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q50JB9/23-67 [subseq from] Beta-defensin 103B n=9 Tax=Pecora TaxID=35500 RepID=Q50JB9_BOVIN
+GIISGLQRYYCKIRSGRCALIGCLPKEEQIGRCSLSGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0007A6DCA4/23-68 [subseq from] beta-defensin 103-like n=1 Tax=Miniopterus natalensis TaxID=291302 RepID=UPI0007A6DCA4
+GLISSVQRYFCRIRSGRCALTSCLPKEEHIGNCSLGGRKCCRRRKG---------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A5N3XHM6/9-56 [subseq from] Beta-defensin (Fragment) n=2 Tax=Muntiacus TaxID=9885 RepID=A0A5N3XHM6_MUNRE
+GIVSWLQKYYCKIRSGQCTLIGCLPKEEQIGHCSLSGRKCCWKKKRKF-------------------------------------------------------------------------------------------------------------------
+>UniRef90_L8HND1/7-50 [subseq from] Beta-defensin 103A (Fragment) n=1 Tax=Bos mutus TaxID=72004 RepID=L8HND1_9CETA
+-IISGLQKYYCKIRSSQCALIGCLPKEEQIGRCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0012629038/26-67 [subseq from] beta-defensin 14 n=1 Tax=Mastomys coucha TaxID=35658 RepID=UPI0012629038
+---KTLRKFFCRVRGGRCAVLNCLAKEEQIGRCSKRGQKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A3Q0EA65/24-65 [subseq from] beta-defensin 103-like n=1 Tax=Carlito syrichta TaxID=1868482 RepID=A0A3Q0EA65_CARSF
+-IIRSIQRYFCQTRGGRCAIFSCLPREEQIGHCSIRGQKCCRR------------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00101A1837/57-101 [subseq from] beta-defensin 103-like n=2 Tax=Vespertilionidae TaxID=9431 RepID=UPI00101A1837
+GIISTVQRYFCKVRSGRCALVSCLPKEEHIGSCSISGRKCCRRRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A6P3FPM6/23-67 [subseq from] beta-defensin 1 n=1 Tax=Octodon degus TaxID=10160 RepID=A0A6P3FPM6_OCTDE
+GLISAVQRYFCRVRGGRCAALTCLPRETQIGHCSLKGRKCCRRRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI001920B999/23-67 [subseq from] beta-defensin 103A-like n=1 Tax=Hyaena hyaena TaxID=95912 RepID=UPI001920B999
+GIISLLQKQFCSLRSGRCAVLGCLPKEEQIGRCSLSGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1S3FUZ4/24-66 [subseq from] beta-defensin 103-like n=2 Tax=Dipodomys TaxID=10016 RepID=A0A1S3FUZ4_DIPOR
+-IINTMRRYYCKIRNGRCAFLGCLAKEEQIGRCSLKGRKCCRKK-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2I2UIW1/23-67 [subseq from] Defensin, beta 103 n=10 Tax=Felidae TaxID=9681 RepID=A0A2I2UIW1_FELCA
+GIISLLQKQFCSLRSGRCALLTCLPKEEQIGRCSLSGRKCCRRKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q7TNV9/26-67 [subseq from] Beta-defensin 14 n=4 Tax=Mus TaxID=10088 RepID=DFB14_MOUSE
+---KTLRKFFCRIRGGRCAVLNCLGKEEQIGRCSNSGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1U7RI02/26-69 [subseq from] beta-defensin 103 n=1 Tax=Mesocricetus auratus TaxID=10036 RepID=A0A1U7RI02_MESAU
+---KTIQKVFCRLRGGRCAVFSCLAREEQIGQCSRRGRKCCRIKRKY--------------------------------------------------------------------------------------------------------------------
+>UniRef90_W5P8Q6/23-67 [subseq from] Beta defensin OA300 n=3 Tax=Caprinae TaxID=9963 RepID=W5P8Q6_SHEEP
+GIISGLRKYYCKIRSGRCALIGCLPKEEEIGRCSLTGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI000B4FD002/24-67 [subseq from] beta-defensin 14 n=1 Tax=Meriones unguiculatus TaxID=10047 RepID=UPI000B4FD002
+-IANGLRRFFCRIRGGRCAVLNCLGQEEQISKCSNRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A452E075/23-67 [subseq from] Defensin, beta 103 n=1 Tax=Capra hircus TaxID=9925 RepID=A0A452E075_CAPHI
+GIISGLRKYYCKIRSGRCALIGCLPKEEEIGHCSLTGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI001CC2B632/23-72 [subseq from] beta-defensin 103A-like n=1 Tax=Cervus elaphus TaxID=9860 RepID=UPI001CC2B632
+GIISWLQRYYCKRRSGRCALIGCLPREEQIGHCSLSGRICCRKKKSKVQK-----------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A6I9MP72/25-67 [subseq from] Beta-defensin 14-like n=3 Tax=Neotominae TaxID=337963 RepID=A0A6I9MP72_PERMB
+--EKTLRKLFCRVRGGRCAIISCLTTEEQIGKCSQKGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q32ZH7/26-67 [subseq from] Beta-defensin 14 n=4 Tax=Murinae TaxID=39107 RepID=DFB14_RAT
+---KSLRRFFCRVRGGRCAILNCLGKEEQIGRCSNRGQKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2U3V3T3/24-66 [subseq from] beta-defensin 103A-like n=4 Tax=Delphinidae TaxID=9726 RepID=A0A2U3V3T3_TURTR
+-IVNILQKYYCRVRGGRCALFGCLPREIPLGLCSHSGRKCCRRE-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0008132EBE/23-68 [subseq from] beta-defensin 103A-like n=2 Tax=Manis TaxID=9973 RepID=UPI0008132EBE
+GLISNIQRRYCRYRHGRCAVSTCLPREEQIGHCSTRGQKCCRTKKK---------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A061IJZ9/26-67 [subseq from] Beta-defensin 14 n=1 Tax=Cricetulus griseus TaxID=10029 RepID=A0A061IJZ9_CRIGR
+---RTIQKLFCRLRGGRCALFSCLAREEQIGQCSSRGRKCCRTKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A673SLM3/23-67 [subseq from] Defensin, beta 103 n=1 Tax=Suricata suricatta TaxID=37032 RepID=A0A673SLM3_SURSU
+GIISLLQRQFCSLRSGRCALLSCLPREEQIGHCSLTGRKCCRRRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI002018F488/24-71 [subseq from] beta-defensin 103A-like n=1 Tax=Perognathus longimembris pacificus TaxID=214514 RepID=UPI002018F488
+-IINTFKRYYCKLRSGRCAYLGCRAKEEQIGHCSLKGRKCCRKRPGPAS------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0014868386/26-67 [subseq from] beta-defensin 14 n=1 Tax=Arvicanthis niloticus TaxID=61156 RepID=UPI0014868386
+---KSLRRFFCRVRGGRCAILNCLTSEEQIGQCSKRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0006B28D63/199-339 [subseq from] truncated polyprotein NS1 prime n=2 Tax=West Nile virus TaxID=11082 RepID=UPI0006B28D63
+------------VRYGRCTKTRHSRRSRRSLTVQTHGESTLANKKGAWLdSTKATRyLVKTESWILRNPGYaLVAAVIGWMLGSNTMQrvVFAIL------LLLVAPAYSFNCLGMSNRDFLEGvsgATWVDlVLEGDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_UPI0006B28D63/450-496 [subseq from] truncated polyprotein NS1 prime n=2 Tax=West Nile virus TaxID=11082 RepID=UPI0006B28D63
+-----------------------------------------------------------------------------------AGRFSITPSAPSYTLKLGEYGEVTVDCEPRSGIDTSA-YYVMSVGEKS--------------------------------
+>UniRef90_UPI0006B28D63/572-591 [subseq from] truncated polyprotein NS1 prime n=2 Tax=West Nile virus TaxID=11082 RepID=UPI0006B28D63
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRVKMEKLQLKGTTYGVC
+>UniRef90_Q8JT35/27-49 [subseq from] Envelope protein (Fragment) n=97 Tax=West Nile virus TaxID=11082 RepID=Q8JT35_WNV
+-------------------------------------------------------------------------------------------------------------------------------GDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_Q8JT35/164-198 [subseq from] Envelope protein (Fragment) n=97 Tax=West Nile virus TaxID=11082 RepID=Q8JT35_WNV
+--------------------------------------------------------------------------------------------------------------AGRFSITPSAPSYTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A4W2DQ83/37-80 [subseq from] Beta-defensin 103A-like n=2 Tax=Bos indicus x Bos taurus TaxID=30522 RepID=A0A4W2DQ83_BOBOX
+-IISGLQKYYCKIRSSQCALIGCHPKEEQIGRCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_G3MWU3/50-93 [subseq from] Defensin, beta 103 n=3 Tax=Bos TaxID=9903 RepID=G3MWU3_BOVIN
+-IISGLQKYYCKIRSGQCALIGCLPKEEQIDCCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_G8E0A9/124-149 [subseq from] Polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=G8E0A9_WNV
+----------------------------------------------------------------------------------------------------------------------------VLEGDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_G8E0A9/265-298 [subseq from] Polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=G8E0A9_WNV
+---------------------------------------------------------------------------------------------------------------GRFSITPAAPSYTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A2Y9RYX4/23-66 [subseq from] beta-defensin 103-like n=1 Tax=Physeter macrocephalus TaxID=9755 RepID=A0A2Y9RYX4_PHYMC
+GIINILQRYYCRIRGGRCALFGCLPWEIPSGRCSSSGRKCCQKK-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2I3H3N5/23-57 [subseq from] Beta-defensin n=2 Tax=Nomascus leucogenys TaxID=61853 RepID=A0A2I3H3N5_NOMLE
+GLMNTLQKYYCRVRGGWCAVLSCLPKEEQIGKYSI--------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0020204AEF/26-67 [subseq from] beta-defensin 14-like n=3 Tax=Arvicolinae TaxID=39087 RepID=UPI0020204AEF
+---KTLRKIYCKVRGGRCALFSCLTTEEQIGRCSKKGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI00122DA8DD/23-57 [subseq from] beta-defensin 103-like n=1 Tax=Nomascus leucogenys TaxID=61853 RepID=UPI00122DA8DD
+GLMNTLQKYYCRVRGGWCAVLSCLPKEEQIGKYSM--------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI001BB24B10/26-67 [subseq from] beta-defensin 14-like n=2 Tax=Microtus TaxID=10053 RepID=UPI001BB24B10
+---KTLRKIYCKIRGGRCALFSCIKTEEQIGQCSKRGRKCCRNKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0000F5E33F/24-65 [subseq from] beta-defensin 103-like n=1 Tax=Tupaia chinensis TaxID=246437 RepID=UPI0000F5E33F
+-IIKTIQKMYCKIRGGRCAMISCLPKEEHIGFCSS--RKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8C6F3W7/25-66 [subseq from] Beta-defensin 103A-like n=2 Tax=Monodontidae TaxID=9747 RepID=A0A8C6F3W7_MONMO
+--INILQRYYCKMRGGRCALFGCLPREIPIGPCSQSGRKCCRRE-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_UPI0000E69E2F/163-198 [subseq from] Envelope glycoprotein n=3 Tax=West Nile virus TaxID=11082 RepID=UPI0000E69E2F
+-------------------------------------------------------------------------------------------------------------QAGRFSITPAAPSYTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A8C9C916/24-66 [subseq from] Beta-defensin 103A-like n=2 Tax=Phocoenidae TaxID=9740 RepID=A0A8C9C916_PHOSS
+-FINILQRYYCKVRGGRCALFGCLPREIPIGTCSRSGRKCCQRQ-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8A5MZJ0/1-24 [subseq from] Polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A8A5MZJ0_WNV
+-------------------------------------------------------------------------------------------------------------------------------GDSCVTIMSKDKPTIDVKMMN-MEA-----------
+>UniRef90_V5JDD9/445-481 [subseq from] Polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=V5JDD9_WNV
+------------------------------------------------------------------------------------------------------------TQAGRFSITPAAPSYTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A8B8WBS1/23-67 [subseq from] beta-defensin 103 n=2 Tax=Balaenoptera TaxID=9766 RepID=A0A8B8WBS1_BALMU
+GIINILQRYYCKIRGGRCALFGCLPWETPSGRCSQSGRNCCLRRK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A8C6QB52/25-66 [subseq from] Beta-defensin 14-like n=1 Tax=Nannospalax galili TaxID=1026970 RepID=A0A8C6QB52_NANGA
+--MNSIRKAFCKVRGGRCAVLKCLKKEDHIGFCAHKGRKCCRRK-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_D7RX37/453-488 [subseq from] Genome polyprotein (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=D7RX37_WNV
+-------------------------------------------------------------------------------------------------------------QAGRFSITPAAPSHTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A5N3VXJ4/17-61 [subseq from] Beta-defensin 103A-like n=1 Tax=Muntiacus reevesi TaxID=9886 RepID=A0A5N3VXJ4_MUNRE
+GIISGLQRYDCRKRNGWCALIGCIPKEEQIGRCSLSGRTCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_K9L2G3/454-488 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=K9L2G3_WNV
+--------------------------------------------------------------------------------------------------------------AGRFSITPAAPSYTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A833S4Y8/23-67 [subseq from] Beta-defensin 103A-like n=6 Tax=Cervus TaxID=9859 RepID=A0A833S4Y8_9CETA
+GIISGLQRYYCRRRSGQCALIGCLTNEEQIGRCSLSGRICCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A5N3US93/17-61 [subseq from] Uncharacterized protein n=1 Tax=Muntiacus muntjak TaxID=9888 RepID=A0A5N3US93_MUNMU
+GIISGLQRYYCRRRSGWCALIGCLPNEEQIGRCSLSGRTRCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_D3X8F7/293-317 [subseq from] Polyprotein (Fragment) n=4 Tax=West Nile virus TaxID=11082 RepID=D3X8F7_WNV
+-----------------------------------------------------------------------------------------------------------------------------LEGDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_A0A5N3XIQ0/11-55 [subseq from] DEFSN domain-containing protein n=1 Tax=Muntiacus reevesi TaxID=9886 RepID=A0A5N3XIQ0_MUNRE
+GIISGLQRFDCKRRSGQCALIACLPREEQIGRCSLSGRKSCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A5N3US15/23-67 [subseq from] SCY domain-containing protein n=2 Tax=Muntiacus TaxID=9885 RepID=A0A5N3US15_MUNMU
+GIISGLQKYYCKRRSGRYALIGCLPNEEQIGRFALSGRKSCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A6J0WFQ6/8-47 [subseq from] beta-defensin 103A-like n=1 Tax=Odocoileus virginianus texanus TaxID=9880 RepID=A0A6J0WFQ6_ODOVR
+GIISGLQKYYCQRRSGRCALIGCLPKEEQIGRCALSVRKC---------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A3R5W2F9/316-339 [subseq from] Genome polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5W2F9_WNV
+------------------------------------------------------------------------------------------------------------------------------EGDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_A0A0A0P7R9/455-488 [subseq from] Genome polyprotein n=2 Tax=West Nile virus TaxID=11082 RepID=A0A0A0P7R9_WNV
+---------------------------------------------------------------------------------------------------------------GRFSITPSAPSYTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_UPI0007AA7DB9/453-488 [subseq from] truncated polyprotein WARF4 n=2 Tax=West Nile virus TaxID=11082 RepID=UPI0007AA7DB9
+-------------------------------------------------------------------------------------------------------------QAGRLSITPAAPSYTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A833S511/23-67 [subseq from] Defensin, beta 103 n=5 Tax=Cervus TaxID=9859 RepID=A0A833S511_9CETA
+GIISGFQKDYCKRRSGRCALIGYLPNEEQIGRCALSGRKCCQKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1B1WWA9/199-339 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWA9_WNV
+------------VRYGRCTKTRHSRRSRRSLTVQTHGESTLANKKGAWMdSTKATRyLVKTESWILRNPGYaLVAAVIGWMLGSNTMQR--VVFAVLLLL--VAPAYSFNCLGMSNRDFLEGvsgATWVDlVLEGDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_A0A1B1WWI1/576-595 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWI1_WNV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRMKMEKLQLKGTTYGVC
+>UniRef90_A0A1B1WTX6/314-339 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WTX6_WNV
+----------------------------------------------------------------------------------------------------------------------------ILEGDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_UPI001458B215/12-51 [subseq from] coagulation factor V-like n=1 Tax=Pecten maximus TaxID=6579 RepID=UPI001458B215
+-------------------------------------------------------------------------------------EYSINPSLGEYSIDPSPGeYSIDPSL-GEYSIDPSLGEYSI--------------------------------------
+>UniRef90_A0A1B1WUX9/314-339 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUX9_WNV
+----------------------------------------------------------------------------------------------------------------------------VLEGDSCVTIMSKDKPTIDVKMLN-ME------------
+>UniRef90_A0A1B1WU88/314-339 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU88_WNV
+----------------------------------------------------------------------------------------------------------------------------VLEGDSCVTIMSKDKPTIDVKMMS-ME------------
+>UniRef90_A0A1B1WVT7/455-487 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVT7_WNV
+---------------------------------------------------------------------------------------------------------------GRFSITPAAPSYTLKLGEYgEVTVDCEPRSGID--------------------
+>UniRef90_A0A1B1WU42/314-339 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WU42_WNV
+----------------------------------------------------------------------------------------------------------------------------VLEGDSCVTIMSKDKPTIDVKMVN-ME------------
+>UniRef90_A0A6P5AQQ5/24-67 [subseq from] beta-defensin 103-like n=1 Tax=Bos indicus TaxID=9915 RepID=A0A6P5AQQ5_BOSIN
+-IISGLQKYYCKIXXXXXXXXXCLPKEEQIGRCSLRGRKCCQKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1B1WUX0/576-595 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUX0_WNV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRVKMEKLQLKGTTYGIC
+>UniRef90_A0A287DET8/20-51 [subseq from] Beta-defensin 103-like n=1 Tax=Ictidomys tridecemlineatus TaxID=43179 RepID=A0A287DET8_ICTTR
+-------------GGGRCAMLGCLSKEEQIGRCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1B1WVF8/576-595 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVF8_WNV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRVKMERLQLKGTTYGVC
+>UniRef90_X4YHC9/27-47 [subseq from] Envelope protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=X4YHC9_WNV
+-------------------------------------------------------------------------------------------------------------------------------GDSCITIMSKDKPTIDIKMLS---------------
+>UniRef90_X4YHC9/161-198 [subseq from] Envelope protein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=X4YHC9_WNV
+-----------------------------------------------------------------------------------------------------------ATQAGTISVSPSAPSSTLKLGDYgEVTIDCEPRSGVDT-------------------
+>UniRef90_UPI001CA349E5/23-67 [subseq from] beta-defensin 103A-like n=1 Tax=Cervus canadensis TaxID=1574408 RepID=UPI001CA349E5
+GIVSWLQKCYCKIRSGQRTLIDCLSKEEQIGHCSLSGQKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1B1WV08/314-339 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WV08_WNV
+----------------------------------------------------------------------------------------------------------------------------VLEGDSCVTILSKDKPTIDVKMMN-ME------------
+>UniRef90_A0A1B1WVN7/576-595 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WVN7_WNV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRVKMEKLRLKGTTYGVC
+>UniRef90_D6MT58/199-345 [subseq from] Polyprotein (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=D6MT58_WNV
+------------VRYGRCTKTRQSRRSRRSLTVQTHGESTLANKKGAWMdSTKATRyLVKTESWILRNPGYaLVAAVIGWMLGSNTTQRVVF--MVL--LLLVAPAYSFNCLGMSNRDFLEGvsgATWVDlVLEGDSCVTIMSKDKPTIDVKMM-NMEATSLAG------
+>UniRef90_D6MT58/456-488 [subseq from] Polyprotein (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=D6MT58_WNV
+----------------------------------------------------------------------------------------------------------------RFTVSPSAPTYTMKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_D6MT58/576-595 [subseq from] Polyprotein (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=D6MT58_WNV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRVKMGKLKLKGTTYGVC
+>UniRef90_A0A8C0W0S8/23-65 [subseq from] Beta-defensin 103-like n=1 Tax=Castor canadensis TaxID=51338 RepID=A0A8C0W0S8_CASCN
+GFISALQKVHCKIRKGRCALRSCLAKEEQIGNCS-RNRKCCRKK-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1B1WX19/454-488 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WX19_WNV
+--------------------------------------------------------------------------------------------------------------AGRFSITPAAPSHTLKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_A0A1B1WW67/454-488 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WW67_WNV
+--------------------------------------------------------------------------------------------------------------AGRFSITPAAPSYTQKLGEYgEVTVDCEPRSGIDT-------------------
+>UniRef90_UPI001A9E9FD1/45-77 [subseq from] beta-defensin 103A-like n=1 Tax=Ictidomys tridecemlineatus TaxID=43179 RepID=UPI001A9E9FD1
+------------LGGGRCAMLGCLSKEEQIGRCSLRGRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A1B1WUD6/576-595 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WUD6_WNV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRVKMGKLQLKGTTYGVC
+>UniRef90_A0A1B1WWT1/314-339 [subseq from] Genome polyprotein n=1 Tax=West Nile virus TaxID=11082 RepID=A0A1B1WWT1_WNV
+----------------------------------------------------------------------------------------------------------------------------VLEGDSCVTIISKDKPTIDVKMMN-ME------------
+>UniRef90_A0A5N3UR16/3-47 [subseq from] DEFENSIN domain-containing protein (Fragment) n=1 Tax=Muntiacus reevesi TaxID=9886 RepID=A0A5N3UR16_MUNRE
+GILSGLERCYCRRRSGGCALIGCLPKEGQIGRYSLSGRTCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A3Q2HIT9/23-61 [subseq from] Secreted protein n=1 Tax=Equus caballus TaxID=9796 RepID=A0A3Q2HIT9_HORSE
+GIINALQKSYWKIRNGQCAVLGCLPKEGQIGCCSVSGER----------------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A2D1CS54/314-336 [subseq from] Genome polyprotein n=6 Tax=Flavivirus TaxID=11051 RepID=A0A2D1CS54_WNV
+----------------------------------------------------------------------------------------------------------------------------VLEGDSCITIMSKDKPTIDIKML----------------
+>UniRef90_UPI0009469785/314-337 [subseq from] truncated polyprotein n=2 Tax=Cacipacore virus TaxID=64305 RepID=UPI0009469785
+------------------------------------------------------------------------------------------------------------------------------EGDSCVTIMSKEKPTLDVRMMK-ME------------
+>UniRef90_UPI0009469785/441-485 [subseq from] truncated polyprotein n=2 Tax=Cacipacore virus TaxID=64305 RepID=UPI0009469785
+----------------------------------------------------------------------------------------------------GNYFAhVASGTASRYTVSPQAPSFTAKMGEYgEVTVDCEPRSGVD--------------------
+>UniRef90_UPI0009469785/574-593 [subseq from] truncated polyprotein n=2 Tax=Cacipacore virus TaxID=64305 RepID=UPI0009469785
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRLKMEKLALKGTTYGMC
+>UniRef90_A5YBK7/27-49 [subseq from] Polyprotein (Fragment) n=6 Tax=Ilheus virus TaxID=59563 RepID=A5YBK7_ILHV
+-------------------------------------------------------------------------------------------------------------------------------GGSCVTVMAKDKPTLDIKLIR-ME------------
+>UniRef90_A5YBK7/159-186 [subseq from] Polyprotein (Fragment) n=6 Tax=Ilheus virus TaxID=59563 RepID=A5YBK7_ILHV
+---------------------------------------------------------------------------------------------------------LTGKYAAKFSITPSAPTYTANLGEYGEA------------------------------
+>UniRef90_A5YBK7/286-305 [subseq from] Polyprotein (Fragment) n=6 Tax=Ilheus virus TaxID=59563 RepID=A5YBK7_ILHV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRLKLDKLKIKGTTYAMC
+>UniRef90_UPI0010A7B64E/24-66 [subseq from] beta-defensin 103A-like n=2 Tax=Monotremata TaxID=9255 RepID=UPI0010A7B64E
+-ILERINNLYCRVRRGRCRLLGCFSKEEQVGTCSLGRRKCCRKR-----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A3R5URB6/322-339 [subseq from] Genome polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=A0A3R5URB6_WNV
+------------------------------------------------------------------------------------------------------------------------------------XIMSKDKPTIDVKMMN-ME------------
+>UniRef90_F1CFF2/33-57 [subseq from] Envelope glycoprotein E (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=F1CFF2_WNV
+------------------------------------------------------------------------------------------------------------------------------EGDSCVTIMSKDKPTIDVKMMN-MEA-----------
+>UniRef90_A0A7N4NZR7/20-64 [subseq from] DEFSN domain-containing protein n=1 Tax=Sarcophilus harrisii TaxID=9305 RepID=A0A7N4NZR7_SARHA
+GLLSRINNLICRVRQGKCRMIGCTNKEEQIGSCSLGRRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A452F9Q5/38-74 [subseq from] Secreted protein n=1 Tax=Capra hircus TaxID=9925 RepID=A0A452F9Q5_CAPHI
+GVTSRLHKYYCEMRSGRCALIGCLQKEEQIGRYSLSG------------------------------------------------------------------------------------------------------------------------------
+>UniRef90_D3X874/76-216 [subseq from] Polyprotein (Fragment) n=1 Tax=West Nile virus TaxID=11082 RepID=D3X874_WNV
+------------VRYGRCTKTRHSRRSRRSLTVQTHGESTLANKKGAWMdSTKATRyLVKTESWILRNPGYaLVAAVIGWMLGSNTMQRVVFV--V--LLLLVAPAYSFNCLGMSNRDFLEGvsgATWVDlVLEGDSCVTIMSKDKPTIDVKMMN-ME------------
+>UniRef90_A0A5F8G7H6/27-68 [subseq from] Beta-defensin n=3 Tax=Didelphinae TaxID=126287 RepID=A0A5F8G7H6_MONDO
+---ERINNMYCKVRQGRCRFIRCTSKEENIGTCSLGRRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q98118/27-46 [subseq from] Envelope protein (Fragment) n=633 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q98118_9FLAV
+-------------------------------------------------------------------------------------------------------------------------------GDSCLTIMANDKPTLDVRMI----------------
+>UniRef90_Q98118/162-188 [subseq from] Envelope protein (Fragment) n=633 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q98118_9FLAV
+------------------------------------------------------------------------------------------------------------SQAAKFTVTPNAPSITLKLGDYgEVTL-----------------------------
+>UniRef90_Q98118/285-304 [subseq from] Envelope protein (Fragment) n=633 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q98118_9FLAV
+-----------------------------------------------------------------------------------------------------------------------------------------------LKCRLKMDKLALKGTTYGMC
+>UniRef90_A0A2U9K737/284-304 [subseq from] Envelope protein (Fragment) n=2 Tax=Japanese encephalitis virus TaxID=11072 RepID=A0A2U9K737_9FLAV
+----------------------------------------------------------------------------------------------------------------------------------------------HLKCRLKMDKLALKGTTYGMC
+>UniRef90_UPI001CC4D62E/24-68 [subseq from] beta-defensin 103A-like n=2 Tax=Metatheria TaxID=9263 RepID=UPI001CC4D62E
+GLLSRIERMICKVRQGKCRVIGCTSKEEKIGTCSLGRRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_Q8QSF1/223-243 [subseq from] Polyprotein (Fragment) n=1 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q8QSF1_9FLAV
+------------------------------------------------------------------------------------------------------------------------------EGDSCLTIMANDKPTLDVRMI----------------
+>UniRef90_Q82875/320-347 [subseq from] Polyprotein (Fragment) n=39 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q82875_9FLAV
+------------------------------------------------------------------------------------------------------------------------------EGDSCLTIMANDKPTLDVRMI-NIEAVQL--------
+>UniRef90_Q82875/455-482 [subseq from] Polyprotein (Fragment) n=39 Tax=Japanese encephalitis virus TaxID=11072 RepID=Q82875_9FLAV
+-----------------------------------------------------------------------------------------------------------ASQAAKFTVTPNAPSITLKLGDYgEVTL-----------------------------
+>UniRef90_K7Y0H2/145-162 [subseq from] Envelope glycoprotein E (Fragment) n=2 Tax=West Nile virus TaxID=11082 RepID=K7Y0H2_WNV
+---------------------------------------------------------------------------------------------------------------GRFSITPSAPSYTLKLGE----------------------------------
+>UniRef90_A0A5N3UNX1/11-49 [subseq from] 60S ribosomal protein L34 n=1 Tax=Muntiacus muntjak TaxID=9888 RepID=A0A5N3UNX1_MUNMU
+------TKVLLQKRSGRRALIGCLPRKEQIGRCSLSGRKYCRKKK----------------------------------------------------------------------------------------------------------------------
+>UniRef90_A0A3T1D0P1/35-69 [subseq from] Major sperm protein n=1 Tax=Cohnella abietis TaxID=2507935 RepID=A0A3T1D0P1_9BACL
+----------------------------------------------------------------------------------VNAQFSITPASPKKVTIVNAQFSITPASPKKVTIV----------------------------------------------
+>UniRef90_A0A3T1D0P1/69-122 [subseq from] Major sperm protein n=1 Tax=Cohnella abietis TaxID=2507935 RepID=A0A3T1D0P1_9BACL
+----------------------------------------------------------------------------------VNAQFSITPASPKKVTIVNPQFSITPASPKKVTIVNPQFSITP-ASAQKVTIVNA--------------------------
+>UniRef90_A0A4X2KK98/24-68 [subseq from] DEFSN domain-containing protein n=1 Tax=Vombatus ursinus TaxID=29139 RepID=A0A4X2KK98_VOMUR
+GLLSRISSMICKVRQGKCRVIGCTSKEEKIGTCSLGRRKCCRKKK----------------------------------------------------------------------------------------------------------------------
+>SRR6059036_1605042/28-76 [subseq from] SRR6059036_1605042
+------------------------------------------------------------------------------LATTATQFSSVGPYPISVTLGSNPNFSITPSN---GTLTVNQRPATVKVDDK---------------------------------
+>SRR6059036_1605042/104-153 [subseq from] SRR6059036_1605042
+------------------------------------------------------------------------------LATTATQFSSVGPYPISVTLGSNPNFSITPSN---GTLTVNQRPATVKVDDKS--------------------------------
+>SRR5688572_19260374/8-55 [subseq from] SRR5688572_19260374
+----------CGVPGGRRSALVCVPTADPVGRWNTCGVPGGRRSALVCVPTadPVGRW-----------------------------------------------------------------------------------------------------------
+>SRR5688572_19260374/33-79 [subseq from] SRR5688572_19260374
+----------CGVPGGRRSALVCVPTADPVGRWNTCGVPEGRRSALVCVPTadPVGR------------------------------------------------------------------------------------------------------------
+>SRR5688572_19260374/83-129 [subseq from] SRR5688572_19260374
+----------CGVPGGRRSALVCVPTADPVGRWNTCGVPGGRRSALVCVPTadPVGR------------------------------------------------------------------------------------------------------------
+>SRR5688572_19260374/108-153 [subseq from] SRR5688572_19260374
+----------CGVPGGRRSALVCVPTADPVGRWNTCGVPGGRRSALVCVPTadPVG-------------------------------------------------------------------------------------------------------------
+>SRR5688572_19260374/682-729 [subseq from] SRR5688572_19260374
+---------TCGVPGGRRSALVCVPTADPVGRWNTCGVPGGRRSALVCVPTadPVGR------------------------------------------------------------------------------------------------------------
+>SRR5688572_19260374/833-880 [subseq from] SRR5688572_19260374
+----------CGVPGGRRSALVCVPTADPVGRWNTCGVPEGRRSALVCVPTadPVGRW-----------------------------------------------------------------------------------------------------------
+>SRR5919112_1707357/4-39 [subseq from] SRR5919112_1707357
+--------------------------------------------------------------------------------------FTITPASPSPQLHHHPSFTITPASPSPQL--HHHPSFT---------------------------------------
+>SRR5919112_1707357/54-81 [subseq from] SRR5919112_1707357
+-------------------------------------------------------------------------------------SFTITPASPSPHLHHHPGFTITPASPSP--------------------------------------------------
+>SRR5919112_1707357/88-115 [subseq from] SRR5919112_1707357
+-------------------------------------------------------------------------------------SFTITPASPSPQLHHHPSFTITPASQSP--------------------------------------------------
+>SRR5919112_1707357/190-218 [subseq from] SRR5919112_1707357
+-------------------------------------------------------------------------------------SFTITPASPSPHLHHHPGFTITPASPSPQ-------------------------------------------------
+>SRR5919112_1707357/530-557 [subseq from] SRR5919112_1707357
+-------------------------------------------------------------------------------------SFTITPASPSPRLHHHPSFTITPASPSP--------------------------------------------------
+>SRR5919112_1707357/564-591 [subseq from] SRR5919112_1707357
+-------------------------------------------------------------------------------------SFTITPASPSPQLHNHPSFTITPASPSP--------------------------------------------------
+>SRR5213596_2454114/24-74 [subseq from] SRR5213596_2454114
+---------------------------------------------------------------------------------------------GSTTLATGAGFGTSTLAPGSHTITASATDSAGKTSHASLTLRVDGNPTVTI-------------------
+>SRR5881394_1219263/4-59 [subseq from] SRR5881394_1219263
+-----------------------------------------------------------------------STTVKLFVSLNERAPLSVTFSVITFVLGPCASLGVQVNTPVLGSrFTPAGADTRLK-------------------------------------
+>SRR5881394_1219263/99-155 [subseq from] SRR5881394_1219263
+----------------------------------------------------------------------LSTTVKLFVSLNERAPLSVTFSVITFVLGPCASLGVQVNTPVLGSrFTPAGADTRLK-------------------------------------
+>SRR5881394_1219263/482-539 [subseq from] SRR5881394_1219263
+---------------------------------------------------------------------SLTTTVKLFVSLNEGAPLSVTFTVITFVLGPCASLGVQVNTPVLGSrFTPAGADTRLK-------------------------------------
+>SRR5881394_1219263/1730-1788 [subseq from] SRR5881394_1219263
+---------------------------------------------------------------------SLTTTVKLFVSLNEGAPLSVTFTVITFVLGPCASLGVQLNTPVLGSrFTPLGAETRLKL------------------------------------
+>SRR5881394_1219263/1827-1883 [subseq from] SRR5881394_1219263
+----------------------------------------------------------------------LTTTVKLFVSLNEGAPLSVTFTVITFVLGPCASLGVQLNTPVLGSrFTPAGADTRLK-------------------------------------
+>SRR5215468_1566195/9-67 [subseq from] SRR5215468_1566195
+-------------------------------------------------------------TTLAPGGSTTATYTKTLSQADINA-GSITNIATDHGVGPAPGQSPSASASDTVSISQTAT------------------------------------------
+>SRR5215468_1566195/131-190 [subseq from] SRR5215468_1566195
+------------------------------------------------------------TTTLAPGGSTTATYTKTLSQADINA-GSITNIATDHGVGPAPGQSPSASASDTVSISQTAT------------------------------------------
+>SRR5215468_1566195/867-928 [subseq from] SRR5215468_1566195
+----------------------------------------------------------LGTTTLAPGGSTTATYTKTLSQADINA-GSITNIATDHGVGPAPGQSPSASASDTVSISQTAT------------------------------------------
+>SRR5229473_1452606/33-97 [subseq from] SRR5229473_1452606
+----------------------------------------------------------------RTGTVTIAAQTFTIMQAAAACSYAIAPASQSVPAGGGPASTMATAGPAcAWTATPNAPWITITSG-----------------------------------
+>SRR5229473_1452606/288-352 [subseq from] SRR5229473_1452606
+----------------------------------------------------------------RTGTVTIAAQTFTIMQAAAACSYAIAPASQSVPAGGGPASTMVTAGPAcAWTATPNAPWITITSG-----------------------------------
+>SRR5229473_1452606/798-862 [subseq from] SRR5229473_1452606
+----------------------------------------------------------------RTGTVTIAAQTFTIMQAAAACSYAIAPASQSVPAGGGPASTMATAGPAcAWTATPNDPWITITSG-----------------------------------
+>SRR5229473_1452606/883-947 [subseq from] SRR5229473_1452606
+----------------------------------------------------------------RTGTVTIAAQTFTIMQAAAACSYAIAPASQSVPAGGGPASTmVTAGTACAWTATPNDPWITITSG-----------------------------------
+>SRR5213075_3222174/68-120 [subseq from] SRR5213075_3222174
+------------------------------------------------------------------------WNVLVALR--LGVPLSNTRTVTTFVLGPCPSLGVHVIAPAEETARPVGPDTSAKV------------------------------------
+>SRR5213075_3222174/831-880 [subseq from] SRR5213075_3222174
+---------------------------------------------------------------------------LV--ALRLGVPLSNTRTVTTFVLGPCPSLGVHVIAPAEETARPVGPDTSAKV------------------------------------
+>SRR5213075_3222174/925-975 [subseq from] SRR5213075_3222174
+--------------------------------------------------------------------------V--LVALRLAVPLSNTRTVTTFVLGPCPSLGVHVIAPAEETNRPVGPDTSAKV------------------------------------
+>SRR5881296_1663203/68-100 [subseq from] SRR5881296_1663203
+---------------------------------------------------------------------------------AALQFSSVGPYPISVTLGSNPNYSITPSNG---TLT----------------------------------------------
+>SRR5881296_1663203/141-185 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATQFSSVRPYPISVTLGSNPNYSITPSNG---TLTVNQRPATVK-------------------------------------
+>SRR5881296_1663203/220-249 [subseq from] SRR5881296_1663203
+---------------------------------------------------------------------------------AALQFSSVGPYPISVTLGSNPNYSITPSNG----------------------------------------------------
+>SRR5881296_1663203/293-337 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATRFSSVGPYPISVTLGSNPNYSITPSNG---TLTVNQRPATVK-------------------------------------
+>SRR5881296_1663203/369-406 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATQFSSVRPYPISVTLGSNPNYSITPSNG---TLTVN--------------------------------------------
+>SRR5881296_1663203/521-557 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATRFSSVGPYPISVTLGSNPNYSITPSNG---TLTV---------------------------------------------
+>SRR5881296_1663203/597-629 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATQFSSVRPYPISVTLGLNPNYSITPSNG----------------------------------------------------
+>SRR5881296_1663203/901-938 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATRFSSVGPYPISVTLGSNPNYSITPSNG---TLTVN--------------------------------------------
+>SRR5881296_1663203/1129-1164 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATRFSSVGPYPISVTLGSNPNYSITPSNG---TLT----------------------------------------------
+>SRR5881296_1663203/1205-1240 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATQFSSVRPYPISVTLGLNPNYSITPSNG---TLT----------------------------------------------
+>SRR5881296_1663203/1357-1401 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATQFSSVGPYPISVTLGSNPNYSITPSNG---TLTVNQRPATVK-------------------------------------
+>SRR5881296_1663203/1889-1921 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATRFSSVGPYPISVTLGSNPNYSITPSNG----------------------------------------------------
+>SRR5881296_1663203/1970-1997 [subseq from] SRR5881296_1663203
+-----------------------------------------------------------------------------------LQFSSVGPYPISVTLGSNPNYSITPSNG----------------------------------------------------
+>SRR5881296_1663203/2044-2077 [subseq from] SRR5881296_1663203
+---------------------------------------------------------------------------------AALQFSSVGPYPISVTLGSNPNYSITPSNG---TLTV---------------------------------------------
+>SRR5881296_1663203/2117-2151 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATQFSSVRPYPISVTLGSNPNYSITPSNG---TL-----------------------------------------------
+>SRR5881296_1663203/2269-2315 [subseq from] SRR5881296_1663203
+------------------------------------------------------------------------------LATTATQFSSVGPYPISVTLGSNPNYSITPSNG---TLTVNQRPATVKAD-----------------------------------

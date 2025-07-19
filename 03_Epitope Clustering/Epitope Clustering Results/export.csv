@@ -1,0 +1,8 @@
+"Cluster.Sub-Cluster Number","Peptide Number","Alignment","Position","Description","Peptide"
+"1.1","Consensus","FSITPSAPSYTL","-","-","-"
+"1.1","1","FSITPSAPS---","1","seq5, seq7","FSITPSAPS"
+"1.1","2","---TPSAPSYTL","4","seq1","TPSAPSYTL"
+"2.1","Singleton","TPVGRLVTV","-","seq2","TPVGRLVTV"
+"3.1","Singleton","FLAVGGVLL","-","seq3","FLAVGGVLL"
+"4.1","Singleton","VLLFLSVNV","-","seq4","VLLFLSVNV"
+"5.1","Singleton","IKYEVAIFV","-","seq6","IKYEVAIFV"
