@@ -6,10 +6,10 @@ This repository contains the in silico workflow and result files for designing a
 
 ## Workflow Overview
 
-### 1. **Protein Retrieval**
+### 0. **Protein Retrieval**
 - envelope [E] protein, partial [West Nile virus].fasta: Main target sequence retrieved from NCBI.
 
-### 2. **Epitope Prediction**
+### 1. **Epitope Prediction**
 - **MHC-I Binding**:
   Predicted CD8+ T-cell epitopes.
 - **MHC-II Binding**:
@@ -17,23 +17,26 @@ This repository contains the in silico workflow and result files for designing a
 - **B-cell Epitopes**:
   Linear B-cell epitopes.
 
-### 3. **Filtering and Validation**
+### 2. **Filtering and Validation**
 - **Allergenicity**: 'Allergenicity Prediction/' – Tools used: AllergenFP, AllerTOP.
 - **Toxicity**: 'Toxicity Prediction/' – Tool: ToxinPred.
 - **Antigenicity**: 'Antigenicity score' - Tool: VaxiJen.
 
-### 4. **Epitope Clustering**
+### 3. **Epitope Clustering**
 - 'Epitope Clustering Results/': Clustering overlapping epitopes to select conserved regions.
 
-### 5. **Population Coverage**
+### 4. **Population Coverage**
 - 'Population Coverage Calculation Result/': Estimation using IEDB population coverage tool.
 
-### 6. **Vaccine Construct Design**
+### 5. **Vaccine Construct Design**
 - 'vaccine/': Multi-epitope construct, with linkers and adjuvant added.
 
-### 7. **Structural Modeling and Immune simulation**
+### 6. **Structural Modeling and Immune simulation**
 - 'fold_west_nile_virus_vaccine/': PDB of final construct.
 - 'ClusPro/', 'C-IMMMSIM/',: Protein structure prediction, molecular docking, and immune simulation results.
+
+### 7. **Immune simulation**
+- 'C-IMMMSIM/': Immune simulation results.
 
 ---
 
