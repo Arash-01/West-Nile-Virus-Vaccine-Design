@@ -8,6 +8,7 @@ This repository contains the in silico workflow and result files for designing a
 
 ### 0. **Protein Retrieval**
 - envelope [E] protein, partial [West Nile virus].fasta: Main target sequence retrieved from NCBI.
+- Antigenicity: 'VaxiJen': Antigenicity score
 
 ### 1. **Epitope Prediction**
 - **MHC-I Binding**:
@@ -20,8 +21,7 @@ This repository contains the in silico workflow and result files for designing a
 ### 2. **Filtering and Validation**
 - **Allergenicity**: 'Allergenicity Prediction/' – Tools used: AllergenFP, AllerTOP.
 - **Toxicity**: 'Toxicity Prediction/' – Tool: ToxinPred.
-- **Antigenicity**: 'Antigenicity score' - Tool: VaxiJen.
-
+- 
 ### 3. **Epitope Clustering**
 - 'Epitope Clustering Results/': Clustering overlapping epitopes to select conserved regions.
 
@@ -31,7 +31,7 @@ This repository contains the in silico workflow and result files for designing a
 ### 5. **Vaccine Construct Design**
 - 'vaccine/': Multi-epitope construct, with linkers and adjuvant added.
 
-### 6. **Structural Modeling and Immune simulation**
+### 6. **Structural Modeling**
 - 'fold_west_nile_virus_vaccine/': Protein structural prediction.
 - 'ClusPro/': Molecular docking.
 
