@@ -3,7 +3,11 @@
 This repository contains the in silico workflow and result files for designing a potential multi-epitope vaccine against West Nile Virus (WNV), based on immunoinformatics and structural bioinformatics methods.
 
 ---
+**Note**: This project is finished in terms of execution, but not in terms of satisfaction.  
+Some predicted results and design choices may not meet my standards, and I intend to revisit them with improved methods and insights.
+Educational purposes. Not a finalized.
 
+---
 ## 0. Select and Prepare Target Protein
 
 - Retrieve protein sequence from **NCBI**
@@ -57,6 +61,7 @@ Test selected epitopes using:
 - VaxiJen
 - ToxinPred
 - AllerTOP
+- PyMol
 - AlphaFold
 - MolProbity
 - ClusPro
