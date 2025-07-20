@@ -5,7 +5,7 @@ This repository contains the in silico workflow and result files for designing a
 ---
 **Note**: This project is finished in terms of execution, but not in terms of satisfaction.  
 Some predicted results and design choices may not meet my standards, and I intend to revisit them with improved methods and insights.
-Educational purposes. Not a finalized.
+  [Educational purposes. Not a finalized.]
 
 ---
 ## 0. Select and Prepare Target Protein
